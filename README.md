@@ -20,7 +20,7 @@ A complete PostgreSQL database for an e-commerce platform with realistic data an
 
 ## 📊 Database Schema
 
-![ER Diagram](docs/ER_Diagram.png)
+![ER Diagram](docs/ER_Diagram.md)
 
 ### Tables:
 1. **users** - Customer information
