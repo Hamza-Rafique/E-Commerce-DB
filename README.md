@@ -107,7 +107,7 @@ The project includes 4 categories of queries:
 
 ## 🧪 Testing
 Run test queries to verify setup:
-``bash
+```bash
 -- Test data integrity
 \i tests/test_queries.sql
 
